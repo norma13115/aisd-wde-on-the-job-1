@@ -54,6 +54,7 @@ In this section, you will create the basic foundation of a webpage using essenti
 - [ ] Create a gallery of images/videos for your project.
 - [ ] A "Contact Us" form should also be included.
 - [ ] Add a footer section for your project as well. 
+- [ ] Use Git to `add`, `commit`, and `push` your changes to the repository for your project.
 
 ---
 
