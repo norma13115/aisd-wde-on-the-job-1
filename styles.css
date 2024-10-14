@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif; 
+    margin: 0; /* Reset default browser margins */
+    background-color: rgb(241, 228, 211);
+}
+  
+  header {
+    background-color: #e279ba; /* Example color */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #e6979b; /* Example color */
+    padding: 10px;
+  }
+  
+  nav a {
+    margin-right: 20px;
+    text-decoration: none; /* Remove underlines from links */
+    color: rgb(7, 4, 1);
+}
+  
+  .hero {
+    background-color: #ec7a7a; /* Example color */
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #f0d1bc; /* Example color */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
